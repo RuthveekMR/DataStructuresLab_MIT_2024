@@ -74,5 +74,5 @@ This repository contains C++ solutions to all **mandatory lab exercises** from t
 
 **Ruthveek M R**  
 B.E. Data Science & Engineering, MIT Manipal  
-GitHub: [@RuthveekMR](https://github.com/RuthveekMR/)  
+GitHub: [@RuthveekMR](https://github.com/RuthveekMR)  
 Email: ruthmys123@gmail.com
